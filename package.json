@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "name": "fatvegan",
+  "version": "1.0.0",
+  "description": "Fat Vegan conceptual web site",
+  "main": "index.js",
+  "author": "Sebastian Nyberg",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
